@@ -1,16 +1,16 @@
 {
-    "name": "PDisk-Videos-Search",
-    "description": "A Telegram bot for searching videos in your PDisk account by @Updates_kannada_channels.",
+    "name": "mdisk-movie-search-bot",
+    "description": "A Telegram bot for searching videos in your mdisk account by @movie_tube_0.",
     "keywords": [
         "telegram",
         "bot",
-        "pdisk",
+        "Mdisk",
         "account",
         "videos",
         "search"
     ],
-    "repository": "https://github.com/AbirHasan2005/PDisk-Videos-Search",
-    "website": "https://github.com/AbirHasan2005/PDisk-Videos-Search",
+    "repository": "https://github.com/satyam5465/mdisk-movie-search-bot",
+    "website": "https://github.com/satyam5465/mdisk-movie-search-bot",
     "success_url": "https://github.com/AbirHasan2005/PDisk-Videos-Search",
     "env": {
         "API_ID": {
